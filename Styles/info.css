@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;1,300&display=swap');
+
+#heading-container{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#heading-container h2{
+    font-family: 'Open Sans' sans-serif;
+    font-weight: bold ;
+    margin-bottom: 20px;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.paragraph-1{
+    font-family: 'Montserrat', sans-serif;  
+    margin-left: 50px;
+    margin-right: 50px;
+    font-weight: 500 !important;
+    text-align: justify;
+}
